@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_mapper" />
+    <file type="web" url="file://$PROJECT_DIR$/mybatis_quick" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_aop" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_exception" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_interceptor" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_test" />
+    <file type="web" url="file://$PROJECT_DIR$/spring_tx" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring_ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_ioc_anno/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_test/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_exception/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_tx/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_quick/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis_mapper/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8 (Oracle)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
